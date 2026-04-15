@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:#4b88bb;
+    background-color: #4b88bb;
     display:block;
 }
 
@@ -65,7 +65,7 @@ body{
 }
 
 .kiri{
-    width:70%;
+    width: 70%;
     float:left;
     margin:auto;
     background:#fff;
